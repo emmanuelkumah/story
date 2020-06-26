@@ -1,0 +1,5 @@
+This is the second chapeter using the following
+git add [filename] put the file into the staging area
+git commit -m "Commit Message"
+git log - view what has been commmited
+git status- chekcs the status of the files in the staging area
