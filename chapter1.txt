@@ -1,1 +1,3 @@
+INTRODUCTION TO GIT AND VERSION CONTROL
+
 This file introduces you on how to use git version control and git hub. It is a great tool to learn
