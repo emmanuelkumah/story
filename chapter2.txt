@@ -1,5 +1,9 @@
 This is a tutorials on some git and version control shortcut
-git add [filename] put the file into the staging area
-git commit -m "Commit Message"
+first initial the git repository in your working directory using git init
+git add  [then file name] will put the file into the staging area
+git commit -m "Message to commit"
 git log - view what has been commmited
 git status- check the status of the files in the staging area
+git diff= to find the difference between the current file changes and the previous one
+git checkout = role back to the last version committed to the local repository
+git branch - create a new branch 

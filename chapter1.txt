@@ -1,1 +1,1 @@
-This is story on Git and Version Control 
+This file introduces you on how to use git version control and git hub. It is a great tool to learn
